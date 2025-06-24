@@ -25,12 +25,15 @@ Este repositorio contiene la implementación de un sistema para la detección de
 ---
 
 ## Recomendación
-    -Genera un entorno virtual para no crear conflicto con otros proyectos, ejecutando el siguiente código:
-    python -m venv venv
-    source venv/bin/activate  # Linux/Mac
-    venv\Scripts\activate     # Windows
-    pip install -r requirements.txt
 
+-Genera un entorno virtual para no crear conflicto con otros proyectos, ejecuta el siguiente código:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # Linux/Mac
+   venv\Scripts\activate     # Windows
+   pip install -r requirements.txt
+   ```
+    
 ---
 
 ## Instalación
