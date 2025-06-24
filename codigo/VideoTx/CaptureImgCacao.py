@@ -8,7 +8,7 @@ import time
 model = YOLO("C:/Users/VICTUS/Aleutp/Documents/SuperPy/runs/detect/train16/weights/best.pt")
 
 # URL de captura de imagen (NO /stream, sino /jpg)
-url = "http://192.168.137.245/capture"  # O usa /jpg según cómo lo configuraste
+url = "http://192.168.137.202/capture"  # O usa /jpg según cómo lo configuraste
 
 while True:
     try:
