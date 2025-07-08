@@ -1,6 +1,7 @@
 # Sistema de Detección de Plagas en Cacao mediante Visión Artificial
 
 Este repositorio contiene la implementación de un sistema para la detección de plagas (Moniliasis y Phytophthora) en frutos de cacao, utilizando modelos de inteligencia artificial basados en YOLOv8. El sistema es de uso libre y de código abierto.
+<img width="1011" height="704" alt="Image" src="https://github.com/user-attachments/assets/bf279184-d496-4729-ba4f-e54b0bed7059" />
 
 ---
 
